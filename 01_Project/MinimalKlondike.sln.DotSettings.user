@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\victo\.nuget\packages\exceldatareader\3.7.0-develop00385\lib\netstandard2.1\ExcelDataReader.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4dd021e5_002Db922_002D4c9b_002D9497_002D16b413145725/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="VitaConvertToJy" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::42CD3EEA-DF60-4074-A70A-B5FB4B1C54E2::net7.0::KlondikeTest.Solution.NerByte.VitaConvertToJy&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::42CD3EEA-DF60-4074-A70A-B5FB4B1C54E2::net7.0::KlondikeTest.Solution.SolutionTest.CreateTargetAIData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::42CD3EEA-DF60-4074-A70A-B5FB4B1C54E2::net7.0::KlondikeTest.Solution.LevelCreateSolution.CreateLevelMiniSolution&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::42CD3EEA-DF60-4074-A70A-B5FB4B1C54E2::net7.0::KlondikeTest.SolverTest.Game_Solve_Minimal_02_104_1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::42CD3EEA-DF60-4074-A70A-B5FB4B1C54E2::net7.0::KlondikeTest.Solution.LevelCreateSolution.CanSample&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::42CD3EEA-DF60-4074-A70A-B5FB4B1C54E2::net7.0::KlondikeTest.Solution.LevelCreateSolution.ConvertToExcel&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::42CD3EEA-DF60-4074-A70A-B5FB4B1C54E2::net7.0::KlondikeTest.Solution.SolitaireCardGame.ConvertLevers&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
